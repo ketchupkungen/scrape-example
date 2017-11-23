@@ -1,0 +1,22 @@
+{
+  "name": "scrape-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ketchupkungen/scrape-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ketchupkungen/scrape-example/issues"
+  },
+  "homepage": "https://github.com/ketchupkungen/scrape-example#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
